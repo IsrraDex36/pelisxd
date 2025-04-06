@@ -72,5 +72,5 @@ Descubre películas destacadas con animaciones fluidas
 
 1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/IsrraDex36/movie-explorer.git
-   cd movie-explorer
+   git clone https://github.com/IsrraDex36/pelisxd.git
+   cd pelisxd
